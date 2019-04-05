@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Some boring stuff in a future 💁‍♂️</h1>
+    <p>@ilnicki 2018</p>
   </div>
 </template>
